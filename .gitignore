@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.venv/
+venv/
+.env
+
+
+
+# Node / React
+node_modules/
+.vscode/
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS junk
+Thumbs.db
+desktop.ini

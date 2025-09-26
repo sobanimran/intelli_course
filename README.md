@@ -143,7 +143,7 @@ Response:
 
 ![Chatbot UI](./screenshots/react_dashboard.png)
 ![Chatbot UI](./screenshots/replyfromTavilyWebSearch.png)
-![Chatbot UI](./screenshots/reply_from pdf.png)
+![Chatbot UI](./screenshots/reply_from_pdf.png)
 
 
 
